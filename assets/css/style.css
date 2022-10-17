@@ -1,0 +1,27 @@
+.section-head {
+text-align: center;
+}
+
+.product-img {
+    width: 300px;
+    height: 300px;
+}
+
+.my-name{
+    color: tomato;
+}
+.footer-end {
+    text-align: center;
+}
+.subscribe-algin {
+    text-align: center;
+}
+.card{
+    border: none;
+}
+.btn {
+    
+}
+.card{
+    margin: 10px !important;
+}
